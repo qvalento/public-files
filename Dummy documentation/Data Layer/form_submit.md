@@ -11,7 +11,7 @@ Found on https://qvalento.com/#contact
 ---
 
 ## Event Parameters
-The event parameters should be included in the data layer (as seen at the bottom). The following JSON explaing what each parameter should contain.
+The event parameters should be included in the data layer (as seen at the bottom). The following JSON explains what each parameter should contain.
 ```
 {
     params: [
