@@ -1,7 +1,7 @@
 Effective Date: 2024-07-29
 
 # 1. Introduction
-Welcome to the Qvalento Localhost Reddit API App ("the App"). This Privacy Policy outlines how we handle your information when you use the App to navigate Reddit from a localhost Node.js machine. The App is intended solely for personal, non-commercial use.
+Welcome to the Qvalento Localhost API App ("the App"). This Privacy Policy outlines how we handle your information when you use the App to navigate Reddit from a localhost Node.js machine. The App is intended solely for personal, non-commercial use.
 
 # 2. Information We Collect
 Since the App operates on a localhost environment and is designed for personal use, we do not collect, store, or process any personal data on external servers. However, the App interacts with Reddit's API, which may collect and process data according to Reddit's Privacy Policy.
